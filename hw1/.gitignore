@@ -1,5 +1,7 @@
 .settings
 target
+.classpath
+.project
 /.idea
 /*.iml
 dependency-reduced-pom.xml
